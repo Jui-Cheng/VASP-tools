@@ -9,12 +9,8 @@ Third and forth are the periodicity of x- and y-direction, respectively.
 Example:
 
 Please input the charge density filename: CHGCAR
-
 Please input the z position you want to slice (crystal coordinate): 6.17
-
 Please input the periodicity along x-direction: 3
-
 Please input the periodicity along y-direction: 3
-
 
 Then, you will get a fancy graphic of the 2D slice of charge density.
