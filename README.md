@@ -2,13 +2,20 @@
 
 *********************************************************
 CHARGE DENSITY SLICE TOOL (CDST) for VASP output files
+
 This python program is produced by Jui-Cheng Kao
+
 From Department of Materials Science and Engineering
+
 National Yang Ming Chiao Tung University, Hsinchu, Taiwan
+
 *********************************************************
 Please feel free if users have any questions.
+
 Email: jckao.en10@nycu.edu.tw
+
 2023/03/21
+
 *********************************************************
 
 These tools are for the post-processing data of first-principles calculation package VASP.
