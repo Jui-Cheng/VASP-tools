@@ -1,4 +1,16 @@
 # Charge Density Slice Tool (CDST)
+
+#*********************************************************#
+#CHARGE DENSITY SLICE TOOL (CDST) for VASP output files
+#This python program is produced by Jui-Cheng Kao
+#From Department of Materials Science and Engineering
+#National Yang Ming Chiao Tung University, Hsinchu, Taiwan
+#*********************************************************#
+#Please feel free if users have any questions.
+#Email: jckao.en10@nycu.edu.tw
+#2023/03/21
+#*********************************************************#
+
 These tools are for the post-processing data of first-principles calculation package VASP.
 The CHG_slice.py program is used to deal with the grid-based charge density information from VASP.
 You have to responce four answers to the program.
