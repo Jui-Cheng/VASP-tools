@@ -16,4 +16,5 @@ Please input the periodicity along x-direction: 3
 
 Please input the periodicity along y-direction: 3
 
+
 Then, you will get a fancy graphic of the 2D slice of charge density.
